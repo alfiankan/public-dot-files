@@ -77,4 +77,7 @@ SAVE ALL => `:wa`
 
 
 
-
+## Other replace method :
+- `:s#pat/tern#replace#g` - Use another character as separator to match "pat/tern"
+- `:s/pat\/tern/replace/g` - Escape the / to match "pat/tern"
+- next occur `n`
