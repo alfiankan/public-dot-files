@@ -2,7 +2,7 @@
 
 ## Vim
 
-### I Use NVIM
+### I'am Using NVIM
 
 ### install
 - brew install fzf
